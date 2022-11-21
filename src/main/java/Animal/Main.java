@@ -13,7 +13,7 @@ public class Main {
         sushi.speak();
 
         System.out.println("**********************************************");
-        
+
         Dog peppi = new Dog();
         peppi.eat();
         peppi.speak();
