@@ -5,5 +5,17 @@ public class Main {
         Cat kittyCat = new Cat();
         kittyCat.eat();
         kittyCat.speak();
+
+        System.out.println("**********************************************");
+
+        Dog sushi = new Dog();
+        sushi.eat();
+        sushi.speak();
+
+        System.out.println("**********************************************");
+        
+        Dog peppi = new Dog();
+        peppi.eat();
+        peppi.speak();
     }
 }
